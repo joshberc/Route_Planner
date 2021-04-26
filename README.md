@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains the comepleted code for the Udacity Route Planning project. The program prompts the user for starting and ending coordinates. The program will then utilize the A* search algorithm to find the most optimal route from the starting coordinate to the end coordinate. This projects use io2d library for location data.
 
 <img src="map.png" width="600" height="450" />
 
